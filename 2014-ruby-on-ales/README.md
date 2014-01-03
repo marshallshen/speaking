@@ -1,49 +1,14 @@
-# Session Tittle
-Embrace Language War
+# Humanity of Ruby
 
-## Target Audience
-Experienced Rubyists
+Ruby code is highly readable and flexible, Ruby community is highly open and helpful: these are the facts most Ruby developers agree and sometimes take for granted. When I just joined Groupon and was challenged to gain both domain and technical knowledge at fast pace, Ruby allowed me to quickly learn what is essential for company's business and contribute to its long-term growth.
 
-## Abstract
-Key questions to address
-----------------------------
-Modern computer languages are double edged sword. Each langauge has its own good and bad things.
-What are some good things and bad things for Ruby, and Clojure?
+"No man is an island". As a Ruby developer, I entered the Ruby community but soon the community entered me. I was inspired by the openness of the community and teamed up with other Groupon engineers attempting to improve Chicago Public Schools. As inequality gap increases in our society, how can we inspire and teach the unpriviledged, and provide them the tools to change their own future?
 
-Under the Context of
------------------------------
-  Groupon has manifested itself from a startup to enterprisy company for the past few years.
-  Ruby and Rails are great for pivoting start ups, but having a monolithic application is impossible for a company at scale.
-    - What do I mean by scale? (Show some Groupon statistics)
-    - Groupon initiated I-tier project to swtich from a monolithic application
-    - What was the company's service diagram before, and what is the diagram now?
+In this talk, I'll share:
+  - My development experience at Groupon: how Ruby helps me understand domain logic quickly and why it is important.
+  - My teaching experience at Chicago Public School: how my co-workers and I try to inspire middle school students using technology to unlock their potential.
 
-Discussion of Language War
------------------------------
-  Why Ruby is great?
-    1. Ruby is great for developing services
-      - Readability
-      - Mature TDD cycle
-    2. Ruby is a great language
-      - Metaprogramming (show code that proves meta programming)
+## Marshall Shen
+A native Chinese born, Marshall Shen started out his U.S adventure by studying at the University of Iowa. He is now a software developer at Groupon, where he spends time implementing and supporting various Ruby applications.
 
-  Why Ruby is bad?
-    1. Too flexible
-      - Easy to allow invalid input to flow into the system
-      - Monkey patch encourages bad development habits
-      - Overuse of metaprogramming makes it harder to debug
-
-  Why Clojure is great?
-    1. Think of services as a collection of function units
-      - Show example of message consumption of the message bus
-    2. Macros
-
-  Why Clojure is bad?
-    1. TBA..
-
-## Notes for Organizers
-I've been given talks at user groups and lightning talks at conferences, now I would like to give a full-fledge talk at conferences.
-I really hope to share my technical experience @ Groupon and my humble thoughts on different technical subjects I've worked on in the past.
-
-## Contact Email
-shen.marshall@gmail.com
+Marshall enjoys living in the Windy City and maintains a full list of "must-try" Chicago restaurants. If you ever wonder what to eat in Chicago, feel free to ask him!
